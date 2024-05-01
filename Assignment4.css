@@ -1,0 +1,73 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+.container-fluid{
+    background-color: #788a7c;
+    margin: 0%;
+    padding: 0%;
+}
+.banner{
+    background-image: url(images/1.jpg);
+    width: 100%;
+    height: 500px;
+    background-position: cover;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.banner-btn{
+    margin-top: 230px;
+    border-radius: 0%;
+    width: 17%;
+}
+.banner-h3{
+    margin-top: 100px;
+}
+.second-container{
+    background-color: #788a7c;
+    width: 100%;
+    height: 450px;
+}
+#custom-logo{
+    width: 100px;
+    height: 100px;
+}
+#logo-h5{
+    color: #6ed198;
+}
+.scnd-cont-a{
+    margin-top: 100px;
+}
+.sixth-content{
+    background-color: #788a7c;
+    width: 100%;
+    height: 500px;
+}
+.sixth-cont-btn{
+    width: 18%;
+}
+.sev-con-btn{
+    width: 24%;
+}
+.fa-brands{
+    font-size: 50px;
+}
+.bg-clr{
+    background-color: #788a7c;
+    width: 100%;
+    height: 450px;
+}
+.email-mar{
+    margin-top: 5px;
+}
+.height{
+    width: 193px;
+    height: 121px;
+    margin-top: 8px;
+}
+.h-color{
+    color: #6ed198;
+}
+#last-h{
+    color: #6ed198;
+}
